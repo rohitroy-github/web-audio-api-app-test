@@ -14,4 +14,4 @@ This is a <a href="https://web-audio-api-app-test.netlify.app/"><b>Voice Setting
 
 There's also an <b>Audio Visualizer</b> in the form of <b>Frequency Wave / Sine Wave</b> avaialable corresponding to the ouput auido.
 
-deployed app >>> https://web-audio-api-app-test.netlify.app/
+The app has been deployed using Netlify !
