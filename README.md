@@ -1,5 +1,17 @@
 # web-audio-api-app-test
 
-This is a <b>microphone audio setting alteration app</b> which is used to convert the microphone input into desired type of output audio as listed.
+This is a <a href="https://web-audio-api-app-test.netlify.app/"><b>Voice Setting Altering App
+</b></a> which is used to convert the microphone input to a different type of audio setting as listed below.
+
+<ul>
+<b>
+<li>Distortion</li>
+<li>Reverb</li>
+<li>Bass Boot</li>
+<li>Echo Delay</li>
+</b>
+</ul>
+
+There's also an <b>Audio Visualizer</b> in the form of <b>Frequency Wave / Sine Wave</b> avaialable corresponding to the ouput auido.
 
 deployed app >>> https://web-audio-api-app-test.netlify.app/
