@@ -322,13 +322,17 @@ function init() {
 
   mute.onclick = voiceMute;
 
+  // muteFunctionality
   function voiceMute() {
     if (mute.id === "") {
+      // mute
       gainNode.gain.value = 0;
+
       mute.id = "activated";
       mute.innerHTML = "Unmute";
     } else {
-      gainNode.gain.value = 0;
+      // unmute
+      gainNode.gain.value = 1;
       mute.id = "";
       mute.innerHTML = "Mute";
     }
